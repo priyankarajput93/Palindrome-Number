@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Palindrome Numbers</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="please_enter_number">Please Enter Number</string>
+    <string name="entered_number_is_palindrome">Number is Palindrome</string>
+    <string name="entered_number_is_not_palindrome">Number is not Palindrome</string>
+    <string name="submit">Submit</string>
+</resources>
